@@ -1,0 +1,48 @@
+\begin{thebibliography}{}
+
+\bibitem[C50]{C50}
+http://rulequest.com/
+
+\bibitem[Iba 94]{Iba94}
+Iba,　H.　, Garis,　H.　, and Sato,　T.　: Genetic Programming Using a Minimum
+  Descriotion Length Principle, in Kinnear,　K.E.  ed., {\em Advances in Genetic
+  Programming}, Chapter　12, pp. 265--284, MIT Press (1994)
+
+\bibitem[石橋 11]{Ishibashi11}
+石橋　太郎：ドクターヘリ運航管理支援に関する研究, 修士論文, 東京都市大学 (2011)
+
+\bibitem[中山 00]{Nakayama00}
+中山　泰夫, 大谷　紀子, 志村　正道：共生進化に基づく決定木の最適化に関する研究,
+  第14回人工知能学会全国大会論文集, pp. 327--328 (2000)
+
+\bibitem[大谷 04]{Otani04}
+大谷　紀子, 志村　正道：アルゴリズム入門, コロナ社 (2004)
+
+\bibitem[大谷 06]{Otani06}
+大谷　紀子, 貝原　巳樹雄, 志村　正道：ポリマー判別のための2段階判別決定木,
+  人工知能学会論文誌, Vol.　21, No.　3, pp. 295--300 (2006)
+
+\bibitem[Quinlan 89]{Quinlan89}
+Quinlan,　J.R.  and Rivest,　R.L. : Inferring Decision Trees Using the Minimum
+  Descriptin Length Principle, {\em Information and Computation}, Vol.　80, pp.
+  227--248 (1989)
+
+\bibitem[Quinlan 93]{Quinlan93}
+Quinlan,　J.R. : {\em C4.5: Programs for Machine Learning}, Morgan Kaufmann
+  (1993)
+
+\bibitem[Quinlan 96]{Quinlan96}
+Quinlan,　J.R. : Boosting first-order learning, in {\em Proceedings of the 7th
+  International Workshop on Algorithmic Learning Theory, Lecture Notes in
+  Artificial Intelligence, No.1160}, pp. 143--155 (1996)
+
+\bibitem[斎野 88]{Saino88}
+斎野　亨：勃興する``ニューロ・エンジニアリング'',
+  ニュ−ロコンピュ−タ最前線：応用システムからＬＳＩチップまで, 日経ＢＰ社
+  (1988)
+
+\bibitem[牛島 11]{Ushijima11}
+牛島　有希乃：Webシステムによるドクターヘリ出動応対支援, 卒業論文, 東京都市大学
+  (2011)
+
+\end{thebibliography}
