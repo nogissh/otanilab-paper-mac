@@ -26,7 +26,7 @@ cd /path/to/repository/otanilab-paper-mac/paper
 ```
 platex paper
 platex paper
-dvipdf mx
+dvipdfmx paper
 ```
 
 4. 美しいPDFが出力されます
